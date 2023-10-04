@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Bachelor of Science in Computer Science at Loyola Marymount University.  I am also wrapping up an Software Engineering internship at LiliumX!
+- 🌱 I’m currently learning Alogrithms & Analysis, Computer Science Organization, and Game Design this semester.
+- 💬 I am proficient in Python, Pandas, Matplotlib, Git, GitHub; Working Knowledge with Java, Latex, Benchling, SwiftUI, C, Tkinter
+- 📫 How to reach me: i.willcomey@gmail.com
+
 <!--
 **icomey8/icomey8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

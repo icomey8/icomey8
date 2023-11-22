@@ -5,7 +5,7 @@
 - 📫 How to reach me: i.willcomey@gmail.com
 
 ## Skills & Experience
-* 💬 I am proficient in Python, Pandas, Matplotlib, Git, GitHub; Working Knowledge with Java, Latex, Benchling, SwiftUI, C, Tkinter
+* 💬 I am proficient in Python, Pandas, Matplotlib, Git, GitHub; Working Knowledge with Java, Latex, Benchling, SwiftUI, HTML, CSS, Tkinter
 * 👨‍💻 Software Engineering Intern at LiliumX (Aug. 2023 - Oct. 2023)
 
 <!--

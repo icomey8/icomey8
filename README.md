@@ -5,8 +5,9 @@
 - 📫 How to reach me: i.willcomey@gmail.com
 
 ## Skills & Experience
-* 💬 I am proficient in Python, Pandas, Matplotlib, Git, GitHub; Working Knowledge with Java, Latex, Benchling, SwiftUI, HTML, CSS, Tkinter
+* 💬 I am proficient in Python, Pandas, Pytorch Matplotlib, Git, GitHub; Working Knowledge with Java, Latex, Benchling, SwiftUI, HTML, CSS, Tkinter
 * 👨‍💻 Software Engineering Intern at LiliumX (Aug. 2023 - Oct. 2023)
+* 🔭 I’m currently working on improving my ML skills with Pytorch!
 
 <!--
 **icomey8/icomey8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

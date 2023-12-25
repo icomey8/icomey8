@@ -6,7 +6,7 @@
 
 ## Skills & Experience
 * 💬 I am proficient in Python, Pandas, Pytorch Matplotlib, Git, GitHub; Working Knowledge with Java, Latex, Benchling, SwiftUI, HTML, CSS, Tkinter
-* 👨‍💻 Software Engineering Intern at LiliumX (Aug. 2023 - Oct. 2023)
+* 👨‍💻 Software Engineering Intern at Valink Therapeutics (Aug. 2023 - Nov. 2023)
 * 🔭 I’m currently working on improving my ML skills with Pytorch!
 
 <!--

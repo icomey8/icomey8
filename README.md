@@ -5,7 +5,7 @@
 - 📫 How to reach me: i.willcomey@gmail.com
 
 ## Skills & Experience
-* 💬 I am proficient in Python, Pandas, Pytorch Matplotlib, Git, GitHub; Working Knowledge with Java, Latex, Benchling, SwiftUI, HTML, CSS, Tkinter
+* 💬 I am proficient in Python, Pandas, Pytorch, Matplotlib, Git, GitHub; Working Knowledge with Java, SwiftUI, HTML, CSS
 * 👨‍💻 Software Engineering Intern at Valink Therapeutics (Aug. 2023 - Nov. 2023)
 * 🔭 I’m currently working on improving my ML skills with Pytorch!
 

@@ -1,4 +1,4 @@
-## Hi there, I'm Ian Comey! 👋
+## Hi there, I'm Ian! 👋
 
 - 🔭 I’m currently working on my Bachelor of Science in Computer Science at Loyola Marymount University.  I also just wrapped up an Software Engineering internship at Valink Therapeutics!
 - 🌱 I’m currently learning Alogrithms & Analysis, Computer Science Organization, and Game Design this semester.

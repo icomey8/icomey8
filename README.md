@@ -5,9 +5,9 @@
 - 📫 How to reach me: i.willcomey@gmail.com
 
 ## Skills & Experience
-* 💬 I am proficient in Python, Pandas, Pytorch, Matplotlib, Git, GitHub; Working Knowledge with Java, SwiftUI, HTML, CSS
+* 💬 I am proficient in Python, Pandas, Pytorch, Matplotlib, Git, GitHub; Working Knowledge with React Native, SwiftUI, HTML, CSS
 * 👨‍💻 Software Engineering Intern at Valink Therapeutics (Aug. 2023 - Nov. 2023)
-* 🔭 I’m currently working on improving my ML skills with Pytorch!
+* 🔭 I’m currently working on developing a mobile app for the Jesuit community that lives on campus at LMU (built with React Native, Firebase)!
 
 <!--
 **icomey8/icomey8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

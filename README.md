@@ -1,6 +1,6 @@
 ## Hi there, I'm Ian! 👋
 
-- 🔭 I’m currently working on my Bachelor of Science in Computer Science at Loyola Marymount University.  I also just wrapped up an Software Engineering internship at Valink Therapeutics!
+- 🔭 I’m currently working on my Bachelor of Science in Computer Science at Loyola Marymount University. 
 <!-- - 🌱 I’m currently learning Operating Systems, Algorithms, and Logic & Computer Design this semester. -->
 - 📫 How to reach me: i.willcomey@gmail.com
 

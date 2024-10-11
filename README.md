@@ -6,7 +6,7 @@
 
 ## Skills & Experience
 * 💬 I am proficient in Python, React+Vite, and Git; Working Knowledge with Django, Pandas, Postgres, React Native, Tailwind, Dash+Plotly, and more.
-* 👨‍💻 Data Engineering Intern at Specie Bio (June 2024 - Present), Software Development Intern at Valink Therapeutics (Aug. 2023 - Nov. 2023)
+* 👨‍💻 Data Engineering Intern at Specie Bio (June 2024 - August 2024), Software Development Intern at Valink Therapeutics (Aug. 2023 - Nov. 2023)
 * 🔭 I’m currently working on my internship and some side projects!
 
 <!--

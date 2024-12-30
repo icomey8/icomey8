@@ -1,13 +1,13 @@
 ## Hi there, I'm Ian! 👋
 
 - 🔭 I’m currently working on my Bachelor of Science in Computer Science at Loyola Marymount University. 
-<!-- - 🌱 I’m currently learning Operating Systems, Algorithms, and Logic & Computer Design this semester. -->
+- 🌱 Learn a bit more about me at [icomey.dev](https://icomey.dev/)!
 - 📫 How to reach me: i.willcomey@gmail.com
 
 ## Skills & Experience
 * 💬 I am proficient in Python, React+Vite, and Git; Working Knowledge with Django, Pandas, Postgres, React Native, Tailwind, Dash+Plotly, and more.
 * 👨‍💻 Data Engineering Intern at Specie Bio (June 2024 - August 2024), Software Development Intern at Valink Therapeutics (Aug. 2023 - Nov. 2023)
-* 🔭 I’m currently working on my internship and some side projects!
+* 🔭 I’m currently working on some side projects!
 
 <!--
 **icomey8/icomey8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

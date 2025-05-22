@@ -1,12 +1,13 @@
 ## Hi there, I'm Ian! 👋
 
-- 🔭 I’m currently working on my Bachelor of Science in Computer Science at Loyola Marymount University. 
+- 🔭 I just finished my B.S. in Computer Science at LMU, and am looking for a position Software Engineer!
 - 📫 How to reach me: i.willcomey@gmail.com
+- 💬 Learn more about me at [icomey.dev](https://icomey.dev)
 
 ## Skills & Experience
-* 💬 I am proficient in Python, Typescript, and Git; Working Knowledge with Pandas, Numpy, Postgres, Supabase and more.
-* 👨‍💻 Data Engineering Intern at Specie Bio (June 2024 - August 2024), Software Development Intern at Valink Therapeutics (Aug. 2023 - Nov. 2023)
-* 🔭 I’m currently working on some side projects!
+* 💬 I am proficient in Typescript, React, Python, and Git; Working Knowledge with Pandas, Numpy, Postgres, Supabase and more.
+* 👨‍💻 Data Engineering Intern at Specie Bio (Summer 2024), Software Development Intern at Valink Therapeutics (Summer/Fall 2023)
+
 
 <!--
 **icomey8/icomey8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

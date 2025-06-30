@@ -1,6 +1,6 @@
 ## Hi there, I'm Ian! 👋
 
-- 🔭 I just finished my B.S. in Computer Science at LMU and am acively looking for a Software Engineering roles!
+- 🔭 I just finished my B.S. in Computer Science at LMU and am acively looking for Software Engineering roles!
 - 📫 How to reach me: i.willcomey@gmail.com
 - 💬 Learn more about me at [icomey.dev](https://icomey.dev)
 
